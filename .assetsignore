@@ -1,0 +1,16 @@
+# Diese Dateien werden NICHT als Webseite ausgeliefert
+.git
+.github
+node_modules
+.wrangler
+.assetsignore
+*.json
+*.jsonc
+*.md
+index.js
+game.js
+game.test.js
+src
+public
+test
+Test
